@@ -28,7 +28,7 @@ public:
 protected:
 	std::string mDb;
 };
-
+ 
 class MCrypt : public Worker
 {
 public:
