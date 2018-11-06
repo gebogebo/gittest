@@ -11,6 +11,7 @@
 
 using namespace std;
 //223344556677
+//from main 1;
 class Worker
 {
 public:
