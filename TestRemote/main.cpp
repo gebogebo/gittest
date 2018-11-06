@@ -10,7 +10,8 @@
 #include <algorithm>
 
 using namespace std;
-
+//223344556677
+//from main 1;
 class Worker
 {
 public:
@@ -28,7 +29,7 @@ public:
 protected:
 	std::string mDb;
 };
-
+ 
 class MCrypt : public Worker
 {
 public:
